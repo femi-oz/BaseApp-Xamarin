@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{538E7F4E-2D19-44BA-8496-E1A49FB6EE57}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BaseApp-Xamarin.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.ItemProperties.BaseApp-Xamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E313495A-0194-48F0-A62C-10B0128D3AD1" />
+</Properties>
