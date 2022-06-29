@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SitDXXyyzNQw+rXRkIpDTe19W2rRI+l/1V4Yjyr/ti0ntnAm4mIiWE+vynxxV7oIpX3RppJZOm0eTW3dk+2dWQ==",
+  "success": true,
+  "projectFilePath": "/Users/oz/Projects/DevOpsProjects/BaseApp-Xamarin/BaseApp-Xamarin/BaseApp-Xamarin/BaseApp-Xamarin.csproj",
+  "expectedPackageFiles": [
+    "/Users/oz/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/oz/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/oz/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/oz/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/oz/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

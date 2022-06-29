@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOfxYqMcpSpHSVeYG64Du2JcoNFQv/yTHSzegIxCpUDFMxnZ6rHrOqd8B8heP65npcRd8+5zAKBkDSjEnmToZg==",
+  "success": true,
+  "projectFilePath": "/Users/oz/Projects/DevOpsProjects/BaseApp-Xamarin/BaseApp-Xamarin/BaseApp-Xamarin.iOS/BaseApp-Xamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/oz/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/oz/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/oz/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
