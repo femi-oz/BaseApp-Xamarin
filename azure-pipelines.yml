@@ -76,6 +76,7 @@ stages:
       inputs:
         pathToPublish: $(Build.ArtifactStagingDirectory)
         artifactName: MyBuildOutputs
+        zipAfterPublish: true
 
 - stage: 'Deploy'
   displayName: 'Deploy the mobile application'
