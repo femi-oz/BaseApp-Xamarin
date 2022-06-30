@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{DF9B0BD9-8A89-48EB-B103-028B459F0393}|Default">
+﻿<Properties StartupConfiguration="{538E7F4E-2D19-44BA-8496-E1A49FB6EE57}|Default">
   <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
   <MonoDevelop.Ide.ItemProperties.BaseApp-Xamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E313495A-0194-48F0-A62C-10B0128D3AD1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="azure-pipelines.yml">
     <Files>
-      <File FileName="azure-pipelines.yml" Line="78" Column="37" />
+      <File FileName="azure-pipelines.yml" Line="75" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
